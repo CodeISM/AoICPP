@@ -1,14 +1,14 @@
 # AoICPP
 Archive of Interesting Competitive Programming Problems
 
-# Categories
+## Categories
 
-- Dynamic Programming
-- Data Structures
-- Graph
-- Binary Search
+- [Dynamic Programming](https://github.com/CodeISM/AoICPP/blob/master/Dynamic%20Programming.md)
+- [Data Structures](https://github.com/CodeISM/AoICPP/blob/master/Data%20Structures.md)
+- [Graph](https://github.com/CodeISM/AoICPP/blob/master/Graph.md)
+- [Binary Search](https://github.com/CodeISM/AoICPP/blob/master/Binary%20Search.md)
 - Greedy
-- Strings
+- [Strings](https://github.com/CodeISM/AoICPP/blob/master/Strings.md)
 - Constructive
 
 
